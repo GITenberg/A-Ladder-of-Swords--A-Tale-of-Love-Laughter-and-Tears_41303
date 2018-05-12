@@ -1,0 +1,44 @@
+_repo: A-Ladder-of-Swords--A-Tale-of-Love-Laughter-and-Tears_41303
+_version: 0.1.0
+contributor:
+  illustrators:
+  - agent_name: Kinney, Troy
+    alias: Kinneys, The
+    birthdate: 1871
+    deathdate: 1938
+    gutenberg_agent_id: '25249'
+    url: http://www.gutenberg.org/2009/agents/25249
+  - agent_name: Kinney, Margaret West
+    birthdate: 1872
+    gutenberg_agent_id: '25250'
+    url: http://www.gutenberg.org/2009/agents/25250
+covers:
+- cover_type: archival
+  image_path: 41303-h/images/cover.jpg
+creator:
+  author:
+    agent_name: Parker, Gilbert
+    aliases:
+    - Parker, Gilbert, Sir, bart.
+    - Parker, Horatio Gilbert
+    birthdate: 1862
+    deathdate: 1932
+    gutenberg_agent_id: '1285'
+    url: http://www.gutenberg.org/2009/agents/1285
+    wikipedia: http://en.wikipedia.org/wiki/Gilbert_Parker
+description: ''
+gutenberg_issued: '2012-11-06'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '41303'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'PS'
+- !lcsh 'Jersey (Channel Islands) -- Fiction'
+- !lcsh 'Great Britain -- History -- Elizabeth, 1558-1603 -- Fiction'
+- !lcsh 'Huguenots -- Fiction'
+title: 'A Ladder of Swords: A Tale of Love, Laughter and Tears'
+url: http://www.gutenberg.org/ebooks/41303
